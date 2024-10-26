@@ -7,7 +7,7 @@ def gerar_introducao():
 
 # Função que gera o desenvolvimento da história 
 def gerar_desenvolvimento():
-    desenvolvimentos = ["a população clama por seu heroi", "um garoto muito especial é deixado na pora de um casal"]
+    desenvolvimentos = ["a população clama por seu heroi", "um garoto muito especial é deixado na porta de um casal"]
     return random.choice(desenvolvimentos)
 
 # Função que gera o final de toda a história
